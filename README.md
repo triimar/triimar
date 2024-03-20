@@ -1,5 +1,15 @@
 ### Hi there 👋
+My name is Triin Marts, I am a software engeneering student (and soon to be graduate) of [42Heilbronn](https://www.42heilbronn.de/en/) coding school.\
+\
+This profile showcases all the projects that I have successfully completed during my studies in the past 1,5 years.
 
+For example, check out my most challenging project to date -  [Webserv](https://github.com/triimar/webserv), or a graphic project [FDF](https://github.com/triimar/FDF---Wireframe-model), that I had a lot of fun with. \
+There is also a fully finctional "mini" shell - [Minishell](https://github.com/triimar/minishell), an integer sorting project called [push-swap](https://github.com/triimar/push_swap---sorting-data-on-a-stack) and many more!
+
+ ✨Currently✨ I am working on the final solo project called Inception that is all about using Docker. \
+ 🔭🔭I am also looking for an internship, to put all my aquired knowledge to the test in the "real world".
+
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/triin-marts-879b87287/) or use email: <*my_first_name>.<my_last_name*>@gmail.com
 <!--
 **triimar/triimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
