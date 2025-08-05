@@ -1,13 +1,12 @@
 ### Hi there 👋
-My name is Triin Marts, I am a software engineering student (and soon to be graduate) of the [42Heilbronn](https://www.42heilbronn.de/en/) coding school.\
+My name is Triin Marts, I am a aspiring software developer and a graduate of the [42Heilbronn](https://www.42heilbronn.de/en/) coding school.\
 \
-This profile showcases all the projects I have successfully completed during my studies over the past 1.5 years.
+This profile showcases all the projects I have successfully completed during my studies and a few personal projects I have made for further learning.
 
-For example, you can have a look at my most challenging project so far - [Webserv](https://github.com/triimar/webserv), or a graphic project [FDF](https://github.com/triimar/FDF---Wireframe-model), which I had a lot of fun with. \
+For example, you can have a look at my most challenging projects so far - [Transcendence](https://github.com/triimar/ft_transcendence) and [Webserv](https://github.com/triimar/webserv), or a graphic project [FDF](https://github.com/triimar/FDF---Wireframe-model), which I had a lot of fun with. \
 There is also a fully functional "mini" shell - [Minishell](https://github.com/triimar/minishell), an integer sorting project called [push-swap](https://github.com/triimar/push_swap---sorting-data-on-a-stack) and many more!
 
- ✨Currently✨ I am working on the last project called ft_transendence that is all about web development. \
- 🔭🔭I am also looking for an internship to put all my acquired knowledge to the test in the "real world".
+ ✨Currently✨ I am working as a junior developer, focusing on being more proficient in using Python and trying to find time for some small personal developing-fun.
 
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/triin-marts-879b87287/) or use email: <*my_first_name>.<my_last_name*>@gmail.com
 <!--
